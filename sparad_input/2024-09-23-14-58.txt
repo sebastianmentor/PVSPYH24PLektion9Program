@@ -1,0 +1,3 @@
+[31m2024-09-23 14:58:15.068904[0m | & C:/Users/Sebastian/Systementor/STI_DE23/DataPlatformDevelopment/Rättning/DimitrisKlimenko/försök1/CRUD/venv/Scripts/python.exe "c:/Users/Sebastian/Systementor/TH_PYAI24/Grundläggande programmering i python/Lektioner/PVSPYH24PLektion9Program/program.py"
+[31m2024-09-23 14:58:18.059303[0m | 5
+[31m2024-09-23 14:58:23.328948[0m | 5
